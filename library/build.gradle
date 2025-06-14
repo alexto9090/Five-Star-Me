@@ -1,20 +1,93 @@
-apply plugin: 'com.android.library'
-apply plugin: 'kotlin-android'
-
-group='com.github.numerative'
+plugins {
+    id 'com.android.library'
+    id 'maven-publish'
+    id 'org.jetbrains.kotlin.android'
+}
 
 android {
-    compileSdk 33
+    namespace "five.star.me"
+    compileSdk 35
+
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdk 35
+        versionCode 1
+        versionName "1.0.0"
     }
-    namespace 'five.star.me'
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    publishing {
+        singleVariant("release") {
+            withSourcesJar()
+        }
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+
+                groupId = 'com.github.alexto9090'
+                artifactId = 'fivestarme'
+                version = '1.0.0'
+
+                // ✅ Fix: Avoid 'release component not found' error
+                def releaseComponent = components.findByName("release")
+                if (releaseComponent != null) {
+                    from releaseComponent
+                } else {
+                    println "❌ 'release' component not found. Make sure this is a library module."
+                }
+
+                pom {
+                    name = 'Android RateThisApp'
+                    description = 'Rating Android apps'
+                }
+            }
+        }
+
+        // ✅ Optional: local test repo
+        repositories {
+            mavenLocal()
+        }
+    }
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.10"
-    //Play core
-    implementation 'com.google.android.play:review:2.0.1'
-    implementation 'com.google.android.play:review-ktx:2.0.1'
+    implementation("androidx.appcompat:appcompat:1.7.1")
+    implementation("com.google.android.material:material:1.12.0")
+    testImplementation("junit:junit:4.13.2")
+    testImplementation 'androidx.test:core:1.6.1'
+    implementation 'androidx.core:core-ktx:1.16.0'
+    androidTestImplementation("androidx.test.ext:junit:1.2.1")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
+    testImplementation "org.robolectric:robolectric:4.14.1"
+
+    testImplementation "org.robolectric:robolectric:4.14.1"
+    implementation 'com.google.android.play:review:2.0.2'
+    implementation 'com.google.android.play:review-ktx:2.0.2'
+
+    // This dependency is downloaded from the Google’s Maven repository.
+    // So, make sure you also include that repository in your project's build.gradle file.
+    // implementation 'com.google.android.play:core:1.10.0'
+
+    // For Kotlin users also import the Kotlin extensions library for Play Core:
+    // implementation 'com.google.android.play:core-ktx:1.8.1'
 }

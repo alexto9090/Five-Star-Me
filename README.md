@@ -30,7 +30,7 @@ Add the following dependency to your module (app) level build.gradle.
 
 ```groovy
 dependencies {
-  implementation 'com.github.numerative:Five-Star-Me:{latest.version}'
+  implementation 'com.github.alexto9090:Five-Star-Me:{latest.version}'
 }
 ```
 

@@ -31,34 +31,25 @@ final class DialogManager {
 
         final OnClickButtonListener listener = options.getListener();
 
-        builder.setPositiveButton(options.getPositiveText(context), new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                final Intent intentToAppstore = options.getStoreType() == StoreType.GOOGLEPLAY ?
-                createIntentForGooglePlay(context) : createIntentForAmazonAppstore(context);
-                context.startActivity(intentToAppstore);
-                setAgreeShowDialog(context, false);
-                if (listener != null) listener.onClickButton(which);
-            }
+        builder.setPositiveButton(options.getPositiveText(context), (dialog, which) -> {
+            final Intent intentToAppstore = options.getStoreType() == StoreType.GOOGLEPLAY ?
+            createIntentForGooglePlay(context) : createIntentForAmazonAppstore(context);
+            context.startActivity(intentToAppstore);
+            setAgreeShowDialog(context, false);
+            if (listener != null) listener.onClickButton(which);
         });
 
         if (options.shouldShowNeutralButton()) {
-            builder.setNeutralButton(options.getNeutralText(context), new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    setRemindInterval(context);
-                    if (listener != null) listener.onClickButton(which);
-                }
+            builder.setNeutralButton(options.getNeutralText(context), (dialog, which) -> {
+                setRemindInterval(context);
+                if (listener != null) listener.onClickButton(which);
             });
         }
 
         if (options.shouldShowNegativeButton()) {
-            builder.setNegativeButton(options.getNegativeText(context), new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    setAgreeShowDialog(context, false);
-                    if (listener != null) listener.onClickButton(which);
-                }
+            builder.setNegativeButton(options.getNegativeText(context), (dialog, which) -> {
+                setAgreeShowDialog(context, false);
+                if (listener != null) listener.onClickButton(which);
             });
         }
 

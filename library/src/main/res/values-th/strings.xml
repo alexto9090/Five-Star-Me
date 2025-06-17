@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ให้คะแนนแอปนี้</string>
+    <string name="rate_dialog_message">หากคุณสนุกกับการใช้งานแอปนี้ คุณช่วยสละเวลาเพียงเล็กน้อยในการให้คะแนนได้ไหม? จะใช้เวลาไม่ถึงนาที ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+    <string name="rate_dialog_ok">ให้คะแนนตอนนี้</string>
+    <string name="rate_dialog_cancel">เตือนฉันภายหลัง</string>
+    <string name="rate_dialog_no">ไม่ ขอบคุณ</string>
+</resources>

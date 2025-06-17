@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ይህንን መተግበሪያ ደረጃ ይስጡ</string>
+    <string name="rate_dialog_message">ይህንን መተግበሪያ በመጫወት የሚያስደስት ከሆነ, ለመገመት ጊዜ ለመውሰድ ያስቡዎታል\? ከአንድ ደቂቃ በላይ አይወስድም. ስለ ድጋፍዎ እናመሰግናለን!</string>
+    <string name="rate_dialog_ok">አሁን ደረጃ ይስጡ</string>
+    <string name="rate_dialog_cancel">በኋላ አስታውሰኝ</string>
+    <string name="rate_dialog_no">አልፈልግም፣አመሰግናለሁ</string>
+</resources>

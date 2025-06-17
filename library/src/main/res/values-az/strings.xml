@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Bu proqramı qiymətləndirin</string>
+    <string name="rate_dialog_message">Bu proqramlar oynamaqdan zövq alırsınızsa, onu qiymətləndirmək üçün bir an çəkməyə razı olarsınız\? Bir dəqiqədən çox çəkməyəcəyəm. Dəstəyiniz üçün təşəkkür edirik!</string>
+    <string name="rate_dialog_ok">İndi qiymətləndirin</string>
+    <string name="rate_dialog_cancel">Daha sonra xatırlat</string>
+    <string name="rate_dialog_no">Xeyr, təşəkkür edirəm</string>
+</resources>

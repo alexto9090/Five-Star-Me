@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">මෙම යෙදුම ශ්‍රේණිගත කරන්න</string>
+    <string name="rate_dialog_message">ඔබට මෙම යෙදුම ක්‍රීඩා කිරීම විඳින්නට තිබේ නම්, මෙය ශ්‍රේණිගත කිරීමට මිනිත්තු කිහිපයක් වෙන්කර ගන්නෙකුත් ද? ඔබගේ සහයෝගයට ස්තුතියි!</string>
+    <string name="rate_dialog_ok">දැන් ශ්‍රේණිගත කරන්න</string>
+    <string name="rate_dialog_cancel">පසුව මතක් කරන්න</string>
+    <string name="rate_dialog_no">අවශ්‍ය නැහැ, ස්තුතියි</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Գնահատեք այս ծրագիրը</string>
+    <string name="rate_dialog_message">Եթե ​​վայելեք այս ծրագիրը խաղալը, մտադրեք մի պահ գնահատել այն: Դա չի տվել ավելի քան մեկ րոպե: Շնորհակալ եմ ձեր աջակցության համար:</string>
+    <string name="rate_dialog_ok">Գնահատեք հիմա</string>
+    <string name="rate_dialog_cancel">Հիշեցրեք ինձ ավելի ուշ</string>
+    <string name="rate_dialog_no">Ոչ, շնորհակալություն</string>
+</resources>

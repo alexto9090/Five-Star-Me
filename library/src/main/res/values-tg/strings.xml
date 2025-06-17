@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Барнома баҳо диҳед</string>
+    <string name="rate_dialog_message">Агар шумо аз истифодаи ин барнома лаззат мебаред, лутфан як дақиқа вақт ҷудо карда ба он баҳо диҳед. Ин вақти зиёде намегирад. Барои дастгирии шумо ташаккур!</string>
+    <string name="rate_dialog_ok">Ҳоло баҳо диҳед</string>
+    <string name="rate_dialog_cancel">Баъдтар хотиррасон кунед</string>
+    <string name="rate_dialog_no">Не, ташаккур</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">វាយតម្លៃកម្មវិធីនេះ</string>
+    <string name="rate_dialog_message">ប្រសិនបើអ្នករីករាយក្នុងការប្រើកម្មវិធីនេះ តើអ្នកអាចចំណាយពេលបន្តិចដើម្បីវាយតម្លៃវាបានទេ? វាមិនចំណាយពេលលើសពីមួយនាទីទេ។ សូមអរគុណសម្រាប់ការគាំទ្ររបស់អ្នក!</string>
+    <string name="rate_dialog_ok">វាយតម្លៃឥឡូវនេះ</string>
+    <string name="rate_dialog_cancel">រំលឹកខ្ញុំពេលក្រោយ</string>
+    <string name="rate_dialog_no">ទេ អរគុណ</string>
+</resources>

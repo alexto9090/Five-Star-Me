@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Voterani pulogalamuyi</string>
+    <string name="rate_dialog_message">Ngati mumakonda kusewera pulogalamuyi, kodi mungafune kuti muchepetse\? Inapambana \ \'t Tengani zoposa mphindi. Tithokoze chifukwa cha thandizo lanu!</string>
+    <string name="rate_dialog_ok">Tsatirani tsopano</string>
+    <string name="rate_dialog_cancel">Ndikumbutseni pambuyo pake</string>
+    <string name="rate_dialog_no">Ayi zikomo</string>
+</resources>

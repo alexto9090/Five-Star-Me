@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ku qiimee app-kan</string>
+    <string name="rate_dialog_message">Haddii aad ku raaxaysato isticmaalka app-kan, ma qaadan kartaa daqiiqad si aad u qiimeyso? Kuma qaadanayso in ka badan hal daqiiqo. Waad ku mahadsan tahay taageeradaada!</string>
+    <string name="rate_dialog_ok">Hadda Ku Qiimee</string>
+    <string name="rate_dialog_cancel">I Xasuusi Mar Dambe</string>
+    <string name="rate_dialog_no">Maya, Mahadsanid</string>
+</resources>

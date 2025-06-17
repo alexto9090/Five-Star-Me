@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ဒီအက်ပ်ကိုအဆင့်သတ်မှတ်ပါ</string>
+    <string name="rate_dialog_message">သင်ဤအက်ပလီကေးရှင်းကိုကစားရတာကိုနှစ်သက်ပါ ဒါဟာတစ်မိနစ်ထက်ပိုပြီးယူပါ။ သင့်ရဲ့ထောက်ခံမှုအတွက်ကျေးဇူးတင်ပါတယ်!</string>
+    <string name="rate_dialog_ok">အခုအဆင့်သတ်မှတ်ပါ</string>
+    <string name="rate_dialog_cancel">နောက်မှငါ့ကိုသတိပေးပါ</string>
+    <string name="rate_dialog_no">ရပါတယ်ကျေးဇူးပါ</string>
+</resources>

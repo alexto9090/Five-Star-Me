@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ikkklassifika din l-app</string>
+    <string name="rate_dialog_message">Jekk qed tieħu gost tuża din l-app, tista\' tieħu ftit ħin biex tagħtiha klassifikazzjoni? Ma tieħux aktar minn minuta. Grazzi tal-appoġġ tiegħek!</string>
+    <string name="rate_dialog_ok">Ikkklassifikaha Issa</string>
+    <string name="rate_dialog_cancel">Fakkarni Aktar Tard</string>
+    <string name="rate_dialog_no">Le, Grazzi</string>
+</resources>

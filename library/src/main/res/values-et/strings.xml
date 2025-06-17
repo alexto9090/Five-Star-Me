@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Hinda seda rakendust</string>
+    <string name="rate_dialog_message">Kui sulle meeldib seda rakendust kasutada, kas võtaksid hetke, et seda hinnata? See ei võta rohkem kui minut aega. Täname sind toetuse eest!</string>
+    <string name="rate_dialog_ok">Hinda kohe</string>
+    <string name="rate_dialog_cancel">Tuleta hiljem meelde</string>
+    <string name="rate_dialog_no">Ei, aitäh</string>
+</resources>

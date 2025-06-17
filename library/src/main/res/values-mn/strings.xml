@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Энэ аппыг үнэлнэ үү</string>
+    <string name="rate_dialog_message">Хэрэв та энэ аппыг ашиглах дуртай бол, хэсэгхэн цаг гаргаж үнэлгээ өгөхгүй юу? Танд нэг минутаас илүү цаг орохгүй. Танд баярлалаа!</string>
+    <string name="rate_dialog_ok">Одоо үнэлэх</string>
+    <string name="rate_dialog_cancel">Дараа сануулах</string>
+    <string name="rate_dialog_no">Үгүй, баярлалаа</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">આ એપને રેટ કરો</string>
+    <string name="rate_dialog_message">જો તમને આ એપનો ઉપયોગ કરવો ગમે છે, તો કૃપા કરીને તેને રેટ કરવા માટે થોડો સમય કાઢશો? તે એક મિનિટથી વધુ લાગશે નહીં. તમારા સહયોગ માટે આભાર!</string>
+    <string name="rate_dialog_ok">હમણાં જ રેટ કરો</string>
+    <string name="rate_dialog_cancel">મને પછી યાદ અપાવો</string>
+    <string name="rate_dialog_no">ના, આભાર</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ھن ايپ کي ريٽ ڪريو</string>
+    <string name="rate_dialog_message">جيڪڏهن توهان کي هي ايپ پسند آئي آهي ته مهرباني ڪري ان کي ريٽ ڪرڻ لاءِ هڪ لمحو وٺو. اهو هڪ منٽ کان وڌيڪ نه وٺندو. توهان جي سهڪار جو شڪريو!</string>
+    <string name="rate_dialog_ok">هاڻي ريٽ ڪريو</string>
+    <string name="rate_dialog_cancel">مون کي پوءِ ياد ڏياريو</string>
+    <string name="rate_dialog_no">نه، مهرباني</string>
+</resources>

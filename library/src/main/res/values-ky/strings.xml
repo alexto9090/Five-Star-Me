@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Бул тиркемени баалаңыз</string>
+    <string name="rate_dialog_message">Эгер бул тиркеме сизге жагып жатса, аны баалоого бир мүнөтүңүздү бөлө аласызбы? Бул көп убактыңызды албайт. Колдооңуз үчүн рахмат!</string>
+    <string name="rate_dialog_ok">Азыр баалоо</string>
+    <string name="rate_dialog_cancel">Кийин эскертип кой</string>
+    <string name="rate_dialog_no">Жок, рахмат</string>
+</resources>

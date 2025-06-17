@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ev sepan bixebitin</string>
+    <string name="rate_dialog_message">Ger hûn xweş dibînin bi lîstina vê sepanê, dikarin çend çirke bide ku ew bixebitînin? Ew zêdetir ji yek deqê naxwaze. Spas ji bo alîkariyê we!</string>
+    <string name="rate_dialog_ok">Niha bixebitin</string>
+    <string name="rate_dialog_cancel">Paşê bibîra min bide</string>
+    <string name="rate_dialog_no">Na, Spas</string>
+</resources>

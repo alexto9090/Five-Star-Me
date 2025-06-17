@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Vota sta app</string>
+    <string name="rate_dialog_message">Se ti piace à ghjucà sta app, vi piacerebbe piglià un momentu per votà\? Vintu micca più di un minutu. Grazie per u vostru sustegnu!</string>
+    <string name="rate_dialog_ok">Vota avà</string>
+    <string name="rate_dialog_cancel">Ricurdami dopu</string>
+    <string name="rate_dialog_no">No, grazie</string>
+</resources>

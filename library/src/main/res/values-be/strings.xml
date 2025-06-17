@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ацаніце гэта дадатак</string>
+    <string name="rate_dialog_message">Калі вам падабаецца гуляць у гэтае прыкладанне, вы не супраць, каб атрымаць момант, каб ацаніць яго\? Гэта не атрымала больш за хвіліну. Дзякуй за падтрымку!</string>
+    <string name="rate_dialog_ok">Ацаніце яго зараз</string>
+    <string name="rate_dialog_cancel">Нагадайце мне пазней</string>
+    <string name="rate_dialog_no">Не, дзякуй</string>
+</resources>

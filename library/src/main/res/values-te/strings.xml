@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ఈ యాప్‌ను రేట్ చేయండి</string>
+    <string name="rate_dialog_message">మీకు ఈ యాప్ నచ్చితే, దానిని రేట్ చేయడానికి ఒక నిమిషం సమయం కేటాయించగలరా? ఇది ఎక్కువ సమయం పట్టదు. మీ మద్దతుకు ధన్యవాదాలు!</string>
+    <string name="rate_dialog_ok">ఇప్పుడు రేట్ చేయండి</string>
+    <string name="rate_dialog_cancel">తర్వాత గుర్తు చేయండి</string>
+    <string name="rate_dialog_no">వద్దు, ధన్యవాదాలు</string>
+</resources>

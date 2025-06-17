@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Betygsätt den här appen</string>
+    <string name="rate_dialog_message">Om du tycker om att använda den här appen, skulle du kunna ta en minut och betygsätta den? Det tar inte mer än en minut. Tack för ditt stöd!</string>
+    <string name="rate_dialog_ok">Betygsätt nu</string>
+    <string name="rate_dialog_cancel">Påminn mig senare</string>
+    <string name="rate_dialog_no">Nej tack</string>
+</resources>

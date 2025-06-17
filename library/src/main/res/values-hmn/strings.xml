@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ntsuas qhov app no</string>
+    <string name="rate_dialog_message">Yog tias koj txaus siab siv qhov app no, koj puas kam siv ib pliag los muab kev ntsuas? Nws tsuas siv li ib feeb xwb. Ua tsaug rau koj txoj kev txhawb nqa!</string>
+    <string name="rate_dialog_ok">Ntsuas tam sim no</string>
+    <string name="rate_dialog_cancel">Nco kuv tom qab</string>
+    <string name="rate_dialog_no">Tsis ua tsaug</string>
+</resources>

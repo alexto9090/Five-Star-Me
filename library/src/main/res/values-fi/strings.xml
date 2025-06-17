@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Arvostele tämä sovellus</string>
+    <string name="rate_dialog_message">Jos nautit tämän sovelluksen käytöstä, voisitko käyttää hetken sen arvosteluun? Se vie vain minuutin. Kiitos tuestasi!</string>
+    <string name="rate_dialog_ok">Arvostele nyt</string>
+    <string name="rate_dialog_cancel">Muistuta myöhemmin</string>
+    <string name="rate_dialog_no">Ei, kiitos</string>
+</resources>

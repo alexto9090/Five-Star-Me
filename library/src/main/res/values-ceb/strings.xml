@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">I-rate kini nga app</string>
+    <string name="rate_dialog_message">Kung nalipay ka sa pagdula niini nga app, mahunahuna ba nimo ang pagkuha og usa ka higayon aron ma-rate kini\? Kini nakadaog labi pa sa usa ka minuto. Salamat sa imong suporta!</string>
+    <string name="rate_dialog_ok">I-rate kini karon</string>
+    <string name="rate_dialog_cancel">Pahinumdumi ako sa ulahi</string>
+    <string name="rate_dialog_no">Dili, Salamat</string>
+</resources>

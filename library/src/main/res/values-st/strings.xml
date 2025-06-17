@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Fana ka tekanyetso ho app ena</string>
+    <string name="rate_dialog_message">Haeba u thabela ho sebelisa app ena, na u ka nka motsotsoana ho e fa tekanyetso? Ha e nke nako e fetang motsotso. Rea leboha ka ts\'ehetso ea hau!</string>
+    <string name="rate_dialog_ok">Eke U e Rate Hona Joale</string>
+    <string name="rate_dialog_cancel">Ntsebise Hamorao</string>
+    <string name="rate_dialog_no">Tjhe, Kea leboha</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Taksi ĉi tiun aplikaĵon</string>
+    <string name="rate_dialog_message">Se vi ĝuas uzi ĉi tiun aplikaĵon, ĉu vi povus preni momenton por taksi ĝin? Ĝi ne daŭros pli ol unu minuton. Dankon pro via subteno!</string>
+    <string name="rate_dialog_ok">Taksi Nun</string>
+    <string name="rate_dialog_cancel">Rememori Min Poste</string>
+    <string name="rate_dialog_no">Ne, Dankon</string>
+</resources>

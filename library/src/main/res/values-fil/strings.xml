@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">I-rate ang app na ito</string>
+    <string name="rate_dialog_message">Kung nasisiyahan ka sa paggamit ng app na ito, maaari mo ba kaming bigyan ng ilang sandali upang ito’y i-rate? Hindi ito aabutin ng higit sa isang minuto. Salamat sa iyong suporta!</string>
+    <string name="rate_dialog_ok">I-rate Ngayon</string>
+    <string name="rate_dialog_cancel">Paalalahanan Ako Mamaya</string>
+    <string name="rate_dialog_no">Hindi, Salamat</string>
+</resources>

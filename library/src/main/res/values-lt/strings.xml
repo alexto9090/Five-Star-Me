@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Įvertinkite šią programėlę</string>
+    <string name="rate_dialog_message">Jei jums patinka ši programėlė, ar galėtumėte skirti akimirką ją įvertinti? Tai užtruks ne ilgiau nei minutę. Ačiū už jūsų palaikymą!</string>
+    <string name="rate_dialog_ok">Įvertinti dabar</string>
+    <string name="rate_dialog_cancel">Priminti vėliau</string>
+    <string name="rate_dialog_no">Ne, ačiū</string>
+</resources>

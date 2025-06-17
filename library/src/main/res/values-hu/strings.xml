@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Értékeld az alkalmazást</string>
+    <string name="rate_dialog_message">Ha élvezettel használod ezt az alkalmazást, megtennéd, hogy szánsz egy percet az értékelésére? Nem fog tovább tartani egy percnél. Köszönjük a támogatásodat!</string>
+    <string name="rate_dialog_ok">Értékelem most</string>
+    <string name="rate_dialog_cancel">Emlékeztess később</string>
+    <string name="rate_dialog_no">Nem, köszönöm</string>
+</resources>

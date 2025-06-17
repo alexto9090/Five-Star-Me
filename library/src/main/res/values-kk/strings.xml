@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Осы қолданбаны бағалаңыз</string>
+    <string name="rate_dialog_message">Егер бұл қолданбаны ұнатсаңыз, оны бағалауға бір сәт бөле аласыз ба? Бұл бір минуттан көп уақыт алмайды. Қолдауыңызға рақмет!</string>
+    <string name="rate_dialog_ok">Қазір бағалау</string>
+    <string name="rate_dialog_cancel">Кейін еске сал</string>
+    <string name="rate_dialog_no">Жоқ, рақмет</string>
+</resources>

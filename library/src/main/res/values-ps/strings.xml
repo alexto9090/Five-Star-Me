@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">دا اپلیکیشن ودرجه کړئ</string>
+    <string name="rate_dialog_message">که تاسو د دې اپ څخه خوند اخلئ، مهرباني وکړئ لږ وخت ونیسئ او دا درجه کړئ؟ دا به له یوې دقیقې ډېر وخت وانه خلي. ستاسو له ملاتړ څخه مننه!</string>
+    <string name="rate_dialog_ok">اوس درجه ورکړئ</string>
+    <string name="rate_dialog_cancel">ما ته وروسته یادونه وکړه</string>
+    <string name="rate_dialog_no">نه، مننه</string>
+</resources>

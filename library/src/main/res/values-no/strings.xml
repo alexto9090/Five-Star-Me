@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Vurder denne appen</string>
+    <string name="rate_dialog_message">Hvis du liker å bruke denne appen, vil du ta et øyeblikk for å vurdere den? Det tar ikke mer enn ett minutt. Takk for din støtte!</string>
+    <string name="rate_dialog_ok">Vurder nå</string>
+    <string name="rate_dialog_cancel">Minn meg senere</string>
+    <string name="rate_dialog_no">Nei takk</string>
+</resources>

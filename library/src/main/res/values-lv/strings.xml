@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Novērtē šo lietotni</string>
+    <string name="rate_dialog_message">Ja tev patīk šī lietotne, vai vari veltīt brīdi, lai to novērtētu? Tas neaizņems vairāk par minūti. Paldies par tavu atbalstu!</string>
+    <string name="rate_dialog_ok">Novērtēt tagad</string>
+    <string name="rate_dialog_cancel">Atgādināt vēlāk</string>
+    <string name="rate_dialog_no">Nē, paldies</string>
+</resources>

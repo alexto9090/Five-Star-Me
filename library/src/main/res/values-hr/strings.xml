@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ocijenite ovu aplikaciju</string>
+    <string name="rate_dialog_message">Ako uživate u igranju ove aplikacije, hoćete li imati na trenutak da je ocijenite\? Osvojio je više od minute. Hvala na podršci!</string>
+    <string name="rate_dialog_ok">Ocijenite ga sada</string>
+    <string name="rate_dialog_cancel">Podsjeti me kasnije</string>
+    <string name="rate_dialog_no">Ne, hvala</string>
+</resources>

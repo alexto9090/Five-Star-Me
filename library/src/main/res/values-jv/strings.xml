@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Wenehana rating aplikasi iki</string>
+    <string name="rate_dialog_message">Yen sampeyan seneng main aplikasi iki, apa sampeyan kersa nyisihake wektu sedhela kanggo menehi rating? Mung butuh sakmenit wae. Matur nuwun kanggo dhukungan sampeyan!</string>
+    <string name="rate_dialog_ok">Wenehana rating saiki</string>
+    <string name="rate_dialog_cancel">Elingna aku mengko</string>
+    <string name="rate_dialog_no">Ora, matur nuwun</string>
+</resources>

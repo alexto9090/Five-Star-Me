@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">შეაფასეთ ეს აპლიკაცია</string>
+    <string name="rate_dialog_message">თუ მოგწონთ ამ აპლიკაციით სარგებლობა, შეგიძლიათ რამდენიმე წუთით შეაფასოთ ის? ეს არ წაგართმევთ მეტ დროს, ვიდრე ერთი წუთი. გმადლობთ მხარდაჭერისთვის!</string>
+    <string name="rate_dialog_ok">შეაფასე ახლავე</string>
+    <string name="rate_dialog_cancel">შემახსენე მოგვიანებით</string>
+    <string name="rate_dialog_no">არა, გმადლობთ</string>
+</resources>

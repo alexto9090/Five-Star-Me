@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ഈ ആപ്പ് റേറ്റ് ചെയ്യൂ</string>
+    <string name="rate_dialog_message">ഈ ആപ്പ് ഉപയോഗിക്കാൻ നിങ്ങൾ ആസ്വദിച്ചാൽ, കുറച്ച് സമയമെടുത്ത് റേറ്റ് ചെയ്യാമോ? ഇത് ഒരു മിനിറ്റിലും കുറവാകും. നിങ്ങളുടെ പിന്തുണയ്ക്ക് നന്ദി!</string>
+    <string name="rate_dialog_ok">ഇപ്പോൾ റേറ്റ് ചെയ്യൂ</string>
+    <string name="rate_dialog_cancel">പിന്നീട് ഓർമ്മപ്പെടുത്തുക</string>
+    <string name="rate_dialog_no">വേണ്ട, നന്ദി</string>
+</resources>

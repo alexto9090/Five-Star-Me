@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ratedza app iyi</string>
+    <string name="rate_dialog_message">Kana uchinakidzwa nekushandisa app iyi, unogona here kutora nguva shoma kuti uiratidze mashandisiro ayo? Hazvitori nguva yakawanda. Tinokutendai nerutsigiro rwenyu!</string>
+    <string name="rate_dialog_ok">Ratedza Ikozvino</string>
+    <string name="rate_dialog_cancel">Ndizivisezve Gare gare</string>
+    <string name="rate_dialog_no">Aiwa, Ndatenda</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Evaluează această aplicație</string>
+    <string name="rate_dialog_message">Dacă îți face plăcere să folosești această aplicație, ai putea să acorzi un minut pentru a o evalua? Nu va dura mai mult de un minut. Mulțumim pentru sprijin!</string>
+    <string name="rate_dialog_ok">Evaluează acum</string>
+    <string name="rate_dialog_cancel">Amintește-mi mai târziu</string>
+    <string name="rate_dialog_no">Nu, mulțumesc</string>
+</resources>

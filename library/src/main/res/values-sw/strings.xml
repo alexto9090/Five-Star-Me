@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Kadiria programu hii</string>
+    <string name="rate_dialog_message">Kama unafurahia kutumia programu hii, unaweza kutenga muda kidogo kuikadiria? Haitachukua zaidi ya dakika moja. Asante kwa msaada wako!</string>
+    <string name="rate_dialog_ok">Kadiria Sasa</string>
+    <string name="rate_dialog_cancel">Nikumbushe Baadaye</string>
+    <string name="rate_dialog_no">Hapana, Asante</string>
+</resources>

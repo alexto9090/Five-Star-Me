@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Beoardielje dizze app</string>
+    <string name="rate_dialog_message">As jo ​​genietsje fan it brûken fan dizze app, soene jo dan in momint nimme wolle om it te beoardieljen? It duorret net mear as in minút. Tige tank foar jo stipe!</string>
+    <string name="rate_dialog_ok">Beoardielje no</string>
+    <string name="rate_dialog_cancel">Herinnerje my letter</string>
+    <string name="rate_dialog_no">Nee, tank</string>
+</resources>

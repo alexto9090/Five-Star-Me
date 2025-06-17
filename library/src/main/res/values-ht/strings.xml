@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Evalye aplikasyon sa a</string>
+    <string name="rate_dialog_message">Si w\'ap pran plezi lè w\'ap itilize aplikasyon sa a, èske ou ta pran yon ti moman pou evalye li? Sa p\'ap pran plis pase yon minit. Mèsi pou sipò ou!</string>
+    <string name="rate_dialog_ok">Evalye kounye a</string>
+    <string name="rate_dialog_cancel">Sonje mwen pita</string>
+    <string name="rate_dialog_no">Non, mèsi</string>
+</resources>

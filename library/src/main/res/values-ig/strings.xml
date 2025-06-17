@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Tụlee ngwa a</string>
+    <string name="rate_dialog_message">Ọ bụrụ na ị na-enwe ụtọ na-egwu ngwa a, ị ga-enwe mmasị inye obere oge tụlee ya? Ọ gaghị ewe karịa otu nkeji. Daalụ maka nkwado gị!</string>
+    <string name="rate_dialog_ok">Tụlee Ugbu a</string>
+    <string name="rate_dialog_cancel">Cheta m echi</string>
+    <string name="rate_dialog_no">Mba, daalụ</string>
+</resources>

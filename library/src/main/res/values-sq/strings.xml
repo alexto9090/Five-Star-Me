@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Vlerësoni këtë aplikacion</string>
+    <string name="rate_dialog_message">Nëse ju pëlqen të luani këtë aplikacion, a do të keni mend të merrni një moment për ta vlerësuar atë\? Nuk do të merrte më shumë se një minutë. Faleminderit për mbështetjen tuaj!</string>
+    <string name="rate_dialog_ok">Vlerësojeni tani</string>
+    <string name="rate_dialog_cancel">Më kujto më vonë</string>
+    <string name="rate_dialog_no">Jo, faleminderit</string>
+</resources>

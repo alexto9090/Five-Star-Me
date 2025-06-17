@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">對此應用程序進行評分</string>
+    <string name="rate_dialog_message">如果您喜歡玩這個應用程序，您是否介意花點時間對其進行評分？它不會花費一分鐘多的時間。感謝您的支持！</string>
+    <string name="rate_dialog_ok">現在對它進行評分</string>
+    <string name="rate_dialog_cancel">稍後提醒我</string>
+    <string name="rate_dialog_no">不，謝謝</string>
+</resources>

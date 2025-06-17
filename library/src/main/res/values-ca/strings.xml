@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Valora aquesta aplicació</string>
+    <string name="rate_dialog_message">Si us agrada jugar a aquesta aplicació, us importaria prendre un moment per valorar -la\? No trigarà més d\'un minut. Gràcies pel vostre suport!</string>
+    <string name="rate_dialog_ok">Valoreu -ho ara</string>
+    <string name="rate_dialog_cancel">Recordeu -me més tard</string>
+    <string name="rate_dialog_no">No, gràcies</string>
+</resources>

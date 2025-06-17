@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Beoordeel deze app</string>
+    <string name="rate_dialog_message">Als je het leuk vindt om deze app te spelen, zou je dan een moment nemen om deze te beoordelen\? Het zal niet meer dan een minuut nemen. Bedankt voor je steun!</string>
+    <string name="rate_dialog_ok">Beoordeel het nu</string>
+    <string name="rate_dialog_cancel">Herinner me er later aan</string>
+    <string name="rate_dialog_no">Nee, bedankt</string>
+</resources>

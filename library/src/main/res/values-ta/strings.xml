@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">இந்த பயன்பாட்டை மதிப்பீடு செய்யுங்கள்</string>
+    <string name="rate_dialog_message">இந்த பயன்பாட்டைப் பயன்படுத்துவதில் மகிழ்ச்சி அடைகிறீர்கள் என்றால், அதை மதிப்பீடு செய்ய ஒரு நிமிடம் செலவிட விருப்பமா? ஒரு நிமிடத்தில் முடிந்துவிடும். உங்கள் ஆதரவுக்கு நன்றி!</string>
+    <string name="rate_dialog_ok">இப்போதே மதிப்பீடு செய்யுங்கள்</string>
+    <string name="rate_dialog_cancel">பின்னர் நினைவூட்டு</string>
+    <string name="rate_dialog_no">வேண்டாம், நன்றி</string>
+</resources>

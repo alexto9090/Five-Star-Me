@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Peunteun aplikasi ieu</string>
+    <string name="rate_dialog_message">Upami anjeun resep maénkeun aplikasi ieu, naha anjeun daék nyéépkeun waktos sakedap pikeun mere penilaian? Moal lami, ngan sakedapan. Hatur nuhun kana dukungan anjeun!</string>
+    <string name="rate_dialog_ok">Peunteun Ayeuna</string>
+    <string name="rate_dialog_cancel">Émutkeun Kuring Engké</string>
+    <string name="rate_dialog_no">Henteu, Hatur nuhun</string>
+</resources>

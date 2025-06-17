@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Faatatau lenei app</string>
+    <string name="rate_dialog_message">Afai e te fiafia e fa\'aaoga lenei app, e mafai ona e faia sina taimi e fa\'atatau ai? E le sili atu i le tasi minute. Fa\'afetai mo lau lagolago!</string>
+    <string name="rate_dialog_ok">Faatatau nei</string>
+    <string name="rate_dialog_cancel">Manatua a\'u mulimuli ane</string>
+    <string name="rate_dialog_no">Leai, fa\'afetai</string>
+</resources>

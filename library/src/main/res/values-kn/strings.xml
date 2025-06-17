@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ</string>
+    <string name="rate_dialog_message">ಈ ಅಪ್ಲಿಕೇಶನ್ ಆಟವಾಡುವುದು ನಿಮಗೆ ಇಷ್ಟವಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಿಮಿಷದಷ್ಟೂ ಸಮಯ ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತೀರಾ? ಇದು ಒಂದು ನಿಮಿಷಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳದು. ನಿಮ್ಮ ಬೆಂಬಲಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="rate_dialog_ok">ಈಗ ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ</string>
+    <string name="rate_dialog_cancel">ನನಗೆ ನಂತರ ನೆನಪಿಸಿ</string>
+    <string name="rate_dialog_no">ವಿಳಂಬಿಸಿ, ಧನ್ಯವಾದಗಳು</string>
+</resources>

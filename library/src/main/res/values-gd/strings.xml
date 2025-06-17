@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Ìre an aplacaid seo</string>
+    <string name="rate_dialog_message">Ma chòrdas e riut a bhith a’ cleachdadh na h-aplacaid seo, am biodh tu deònach mionaid a ghabhail gus i a mheas? Cha toir e ach mionaid. Tapadh leat airson do thaic!</string>
+    <string name="rate_dialog_ok">Ìr e An-dràsta</string>
+    <string name="rate_dialog_cancel">Cuimhnich orm nas fhaide air adhart</string>
+    <string name="rate_dialog_no">Chan eil, tapadh leat</string>
+</resources>

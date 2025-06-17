@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Αξιολογήστε αυτήν την εφαρμογή</string>
+    <string name="rate_dialog_message">Αν σας αρέσει αυτή η εφαρμογή, θα σας πείραζε να αφιερώσετε λίγο χρόνο για να την αξιολογήσετε; Δεν θα σας πάρει πάνω από ένα λεπτό. Ευχαριστούμε για την υποστήριξή σας!</string>
+    <string name="rate_dialog_ok">Αξιολόγηση τώρα</string>
+    <string name="rate_dialog_cancel">Υπενθύμιση αργότερα</string>
+    <string name="rate_dialog_no">Όχι, ευχαριστώ</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">यस एपलाई मूल्याङ्कन गर्नुहोस्</string>
+    <string name="rate_dialog_message">यदि तपाईंलाई यो एप खेल्न रमाइलो लागेको छ भने, के तपाईं एकछिन समय निकालेर यसलाई मूल्याङ्कन गर्नुहुन्छ? यो एक मिनेटभन्दा बढी लाग्दैन। तपाईंको समर्थनको लागि धन्यवाद!</string>
+    <string name="rate_dialog_ok">अहिल्यै मूल्याङ्कन गर्नुहोस्</string>
+    <string name="rate_dialog_cancel">पछि सम्झाउनुहोस्</string>
+    <string name="rate_dialog_no">होइन, धन्यवाद</string>
+</resources>

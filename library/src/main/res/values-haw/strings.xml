@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Loiloi i kēia polokalamu</string>
+    <string name="rate_dialog_message">Inā hauʻoli ʻoe i ka pāʻani ʻana i kēia polokalamu, hiki iā ʻoe ke lawe i kekahi manawa e loiloi ai? ʻAʻole e lōʻihi ma mua o hoʻokahi minuke. Mahalo nui loa no kou kākoʻo!</string>
+    <string name="rate_dialog_ok">Loiloi Anonā</string>
+    <string name="rate_dialog_cancel">Hoʻomanaʻo mai iaʻu ma hope</string>
+    <string name="rate_dialog_no">ʻAʻole, mahalo</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">ໃຫ້ຄະແນແອັບນີ້</string>
+    <string name="rate_dialog_message">ຖ້າທ່ານມີຄວາມສຸກໃນການໃຊ້ແອັບນີ້, ກະລຸນາໃຫ້ເວລາສັກນ້ອຍໃນການໃຫ້ຄະແນ. ບໍ່ເກີນໜຶ່ງນາທີ. ຂອບໃຈສໍາລັບການສະໜັບສະໜູນຂອງທ່ານ!</string>
+    <string name="rate_dialog_ok">ໃຫ້ຄະແນດຽວນີ້</string>
+    <string name="rate_dialog_cancel">ເຕືອນຂ້ອຍພາຍຫຼັງ</string>
+    <string name="rate_dialog_no">ບໍ່, ຂອບໃຈ</string>
+</resources>

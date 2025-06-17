@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Bewäert dës App</string>
+    <string name="rate_dialog_message">Wann Dir dës App gär benotzt, géift Dir Iech e Moment Zäit huelen fir se ze bewäerten? Et dauert net méi wéi eng Minutt. Merci fir Är Ënnerstëtzung!</string>
+    <string name="rate_dialog_ok">Elo bewäerten</string>
+    <string name="rate_dialog_cancel">Spéider erënneren</string>
+    <string name="rate_dialog_no">Nee, merci</string>
+</resources>

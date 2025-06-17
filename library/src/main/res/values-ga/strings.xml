@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Rátaigh an aip seo</string>
+    <string name="rate_dialog_message">Má bhaineann tú taitneamh as an aip seo a úsáid, an bhféadfá nóiméad a ghlacadh chun í a rátáil? Ní thógfaidh sé níos mó ná nóiméad. Go raibh maith agat as do thacaíocht!</string>
+    <string name="rate_dialog_ok">Rátaigh Anois</string>
+    <string name="rate_dialog_cancel">Meabhraigh dom níos déanaí</string>
+    <string name="rate_dialog_no">Níl, go raibh maith agat</string>
+</resources>

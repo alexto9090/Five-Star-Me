@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Applica aestima</string>
+    <string name="rate_dialog_message">Si hanc applicationem libenter ludes, visne paulisper eam aestimare? Non plus quam unum minutum capiet. Gratias pro auxilio tuo!</string>
+    <string name="rate_dialog_ok">Nunc aestima</string>
+    <string name="rate_dialog_cancel">Postea mone me</string>
+    <string name="rate_dialog_no">Minime, gratias</string>
+</resources>

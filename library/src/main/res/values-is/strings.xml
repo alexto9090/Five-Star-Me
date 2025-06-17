@@ -1,0 +1,7 @@
+<resources>
+    <string name="rate_dialog_title">Gefðu þessari öpp einkunn</string>
+    <string name="rate_dialog_message">Ef þér finnst gaman að nota þessa öpp, værir þú til í að gefa henni einkunn? Það tekur ekki meira en eina mínútu. Takk fyrir stuðninginn!</string>
+    <string name="rate_dialog_ok">Gefðu einkunn núna</string>
+    <string name="rate_dialog_cancel">Mundu eftir mér seinna</string>
+    <string name="rate_dialog_no">Nei, takk</string>
+</resources>
